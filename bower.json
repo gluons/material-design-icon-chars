@@ -1,7 +1,13 @@
 {
   "name": "material-design-icon-chars",
   "description": "Google Material Design Icon Character List",
-  "main": "index.js",
+  "main": [
+    "character-list/character-list.json",
+    "character-list/character-list.cson",
+    "character-list/character-list.xml",
+    "character-list/character-list.yaml",
+    "character-list/character-list.toml"
+  ],
   "authors": [
     {
       "name": "Gluons",
@@ -22,6 +28,9 @@
     "node_modules",
     "bower_components",
     "test",
-    "tests"
+    "tests",
+    "material-design",
+    "gulpfile.js",
+    "index.js"
   ]
 }
