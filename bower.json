@@ -1,0 +1,27 @@
+{
+  "name": "material-design-icon-chars",
+  "description": "Google Material Design Icon Character List",
+  "main": "index.js",
+  "authors": [
+    {
+      "name": "Gluons",
+      "email": "sarunta@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "google",
+    "material",
+    "material-design",
+    "icon",
+    "icons"
+  ],
+  "homepage": "https://github.com/gluons/material-design-icon-chars",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

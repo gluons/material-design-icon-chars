@@ -1,0 +1,3727 @@
+[[icons]]
+id = "3d_rotation"
+unicode = "e84d"
+
+[[icons]]
+id = "ac_unit"
+unicode = "eb3b"
+
+[[icons]]
+id = "access_alarm"
+unicode = "e190"
+
+[[icons]]
+id = "access_alarms"
+unicode = "e191"
+
+[[icons]]
+id = "access_time"
+unicode = "e192"
+
+[[icons]]
+id = "accessibility"
+unicode = "e84e"
+
+[[icons]]
+id = "accessible"
+unicode = "e914"
+
+[[icons]]
+id = "account_balance"
+unicode = "e84f"
+
+[[icons]]
+id = "account_balance_wallet"
+unicode = "e850"
+
+[[icons]]
+id = "account_box"
+unicode = "e851"
+
+[[icons]]
+id = "account_circle"
+unicode = "e853"
+
+[[icons]]
+id = "adb"
+unicode = "e60e"
+
+[[icons]]
+id = "add"
+unicode = "e145"
+
+[[icons]]
+id = "add_a_photo"
+unicode = "e439"
+
+[[icons]]
+id = "add_alarm"
+unicode = "e193"
+
+[[icons]]
+id = "add_alert"
+unicode = "e003"
+
+[[icons]]
+id = "add_box"
+unicode = "e146"
+
+[[icons]]
+id = "add_circle"
+unicode = "e147"
+
+[[icons]]
+id = "add_circle_outline"
+unicode = "e148"
+
+[[icons]]
+id = "add_location"
+unicode = "e567"
+
+[[icons]]
+id = "add_shopping_cart"
+unicode = "e854"
+
+[[icons]]
+id = "add_to_photos"
+unicode = "e39d"
+
+[[icons]]
+id = "add_to_queue"
+unicode = "e05c"
+
+[[icons]]
+id = "adjust"
+unicode = "e39e"
+
+[[icons]]
+id = "airline_seat_flat"
+unicode = "e630"
+
+[[icons]]
+id = "airline_seat_flat_angled"
+unicode = "e631"
+
+[[icons]]
+id = "airline_seat_individual_suite"
+unicode = "e632"
+
+[[icons]]
+id = "airline_seat_legroom_extra"
+unicode = "e633"
+
+[[icons]]
+id = "airline_seat_legroom_normal"
+unicode = "e634"
+
+[[icons]]
+id = "airline_seat_legroom_reduced"
+unicode = "e635"
+
+[[icons]]
+id = "airline_seat_recline_extra"
+unicode = "e636"
+
+[[icons]]
+id = "airline_seat_recline_normal"
+unicode = "e637"
+
+[[icons]]
+id = "airplanemode_active"
+unicode = "e195"
+
+[[icons]]
+id = "airplanemode_inactive"
+unicode = "e194"
+
+[[icons]]
+id = "airplay"
+unicode = "e055"
+
+[[icons]]
+id = "airport_shuttle"
+unicode = "eb3c"
+
+[[icons]]
+id = "alarm"
+unicode = "e855"
+
+[[icons]]
+id = "alarm_add"
+unicode = "e856"
+
+[[icons]]
+id = "alarm_off"
+unicode = "e857"
+
+[[icons]]
+id = "alarm_on"
+unicode = "e858"
+
+[[icons]]
+id = "album"
+unicode = "e019"
+
+[[icons]]
+id = "all_inclusive"
+unicode = "eb3d"
+
+[[icons]]
+id = "all_out"
+unicode = "e90b"
+
+[[icons]]
+id = "android"
+unicode = "e859"
+
+[[icons]]
+id = "announcement"
+unicode = "e85a"
+
+[[icons]]
+id = "apps"
+unicode = "e5c3"
+
+[[icons]]
+id = "archive"
+unicode = "e149"
+
+[[icons]]
+id = "arrow_back"
+unicode = "e5c4"
+
+[[icons]]
+id = "arrow_downward"
+unicode = "e5db"
+
+[[icons]]
+id = "arrow_drop_down"
+unicode = "e5c5"
+
+[[icons]]
+id = "arrow_drop_down_circle"
+unicode = "e5c6"
+
+[[icons]]
+id = "arrow_drop_up"
+unicode = "e5c7"
+
+[[icons]]
+id = "arrow_forward"
+unicode = "e5c8"
+
+[[icons]]
+id = "arrow_upward"
+unicode = "e5d8"
+
+[[icons]]
+id = "art_track"
+unicode = "e060"
+
+[[icons]]
+id = "aspect_ratio"
+unicode = "e85b"
+
+[[icons]]
+id = "assessment"
+unicode = "e85c"
+
+[[icons]]
+id = "assignment"
+unicode = "e85d"
+
+[[icons]]
+id = "assignment_ind"
+unicode = "e85e"
+
+[[icons]]
+id = "assignment_late"
+unicode = "e85f"
+
+[[icons]]
+id = "assignment_return"
+unicode = "e860"
+
+[[icons]]
+id = "assignment_returned"
+unicode = "e861"
+
+[[icons]]
+id = "assignment_turned_in"
+unicode = "e862"
+
+[[icons]]
+id = "assistant"
+unicode = "e39f"
+
+[[icons]]
+id = "assistant_photo"
+unicode = "e3a0"
+
+[[icons]]
+id = "attach_file"
+unicode = "e226"
+
+[[icons]]
+id = "attach_money"
+unicode = "e227"
+
+[[icons]]
+id = "attachment"
+unicode = "e2bc"
+
+[[icons]]
+id = "audiotrack"
+unicode = "e3a1"
+
+[[icons]]
+id = "autorenew"
+unicode = "e863"
+
+[[icons]]
+id = "av_timer"
+unicode = "e01b"
+
+[[icons]]
+id = "backspace"
+unicode = "e14a"
+
+[[icons]]
+id = "backup"
+unicode = "e864"
+
+[[icons]]
+id = "battery_alert"
+unicode = "e19c"
+
+[[icons]]
+id = "battery_charging_full"
+unicode = "e1a3"
+
+[[icons]]
+id = "battery_full"
+unicode = "e1a4"
+
+[[icons]]
+id = "battery_std"
+unicode = "e1a5"
+
+[[icons]]
+id = "battery_unknown"
+unicode = "e1a6"
+
+[[icons]]
+id = "beach_access"
+unicode = "eb3e"
+
+[[icons]]
+id = "beenhere"
+unicode = "e52d"
+
+[[icons]]
+id = "block"
+unicode = "e14b"
+
+[[icons]]
+id = "bluetooth"
+unicode = "e1a7"
+
+[[icons]]
+id = "bluetooth_audio"
+unicode = "e60f"
+
+[[icons]]
+id = "bluetooth_connected"
+unicode = "e1a8"
+
+[[icons]]
+id = "bluetooth_disabled"
+unicode = "e1a9"
+
+[[icons]]
+id = "bluetooth_searching"
+unicode = "e1aa"
+
+[[icons]]
+id = "blur_circular"
+unicode = "e3a2"
+
+[[icons]]
+id = "blur_linear"
+unicode = "e3a3"
+
+[[icons]]
+id = "blur_off"
+unicode = "e3a4"
+
+[[icons]]
+id = "blur_on"
+unicode = "e3a5"
+
+[[icons]]
+id = "book"
+unicode = "e865"
+
+[[icons]]
+id = "bookmark"
+unicode = "e866"
+
+[[icons]]
+id = "bookmark_border"
+unicode = "e867"
+
+[[icons]]
+id = "border_all"
+unicode = "e228"
+
+[[icons]]
+id = "border_bottom"
+unicode = "e229"
+
+[[icons]]
+id = "border_clear"
+unicode = "e22a"
+
+[[icons]]
+id = "border_color"
+unicode = "e22b"
+
+[[icons]]
+id = "border_horizontal"
+unicode = "e22c"
+
+[[icons]]
+id = "border_inner"
+unicode = "e22d"
+
+[[icons]]
+id = "border_left"
+unicode = "e22e"
+
+[[icons]]
+id = "border_outer"
+unicode = "e22f"
+
+[[icons]]
+id = "border_right"
+unicode = "e230"
+
+[[icons]]
+id = "border_style"
+unicode = "e231"
+
+[[icons]]
+id = "border_top"
+unicode = "e232"
+
+[[icons]]
+id = "border_vertical"
+unicode = "e233"
+
+[[icons]]
+id = "branding_watermark"
+unicode = "e06b"
+
+[[icons]]
+id = "brightness_1"
+unicode = "e3a6"
+
+[[icons]]
+id = "brightness_2"
+unicode = "e3a7"
+
+[[icons]]
+id = "brightness_3"
+unicode = "e3a8"
+
+[[icons]]
+id = "brightness_4"
+unicode = "e3a9"
+
+[[icons]]
+id = "brightness_5"
+unicode = "e3aa"
+
+[[icons]]
+id = "brightness_6"
+unicode = "e3ab"
+
+[[icons]]
+id = "brightness_7"
+unicode = "e3ac"
+
+[[icons]]
+id = "brightness_auto"
+unicode = "e1ab"
+
+[[icons]]
+id = "brightness_high"
+unicode = "e1ac"
+
+[[icons]]
+id = "brightness_low"
+unicode = "e1ad"
+
+[[icons]]
+id = "brightness_medium"
+unicode = "e1ae"
+
+[[icons]]
+id = "broken_image"
+unicode = "e3ad"
+
+[[icons]]
+id = "brush"
+unicode = "e3ae"
+
+[[icons]]
+id = "bubble_chart"
+unicode = "e6dd"
+
+[[icons]]
+id = "bug_report"
+unicode = "e868"
+
+[[icons]]
+id = "build"
+unicode = "e869"
+
+[[icons]]
+id = "burst_mode"
+unicode = "e43c"
+
+[[icons]]
+id = "business"
+unicode = "e0af"
+
+[[icons]]
+id = "business_center"
+unicode = "eb3f"
+
+[[icons]]
+id = "cached"
+unicode = "e86a"
+
+[[icons]]
+id = "cake"
+unicode = "e7e9"
+
+[[icons]]
+id = "call"
+unicode = "e0b0"
+
+[[icons]]
+id = "call_end"
+unicode = "e0b1"
+
+[[icons]]
+id = "call_made"
+unicode = "e0b2"
+
+[[icons]]
+id = "call_merge"
+unicode = "e0b3"
+
+[[icons]]
+id = "call_missed"
+unicode = "e0b4"
+
+[[icons]]
+id = "call_missed_outgoing"
+unicode = "e0e4"
+
+[[icons]]
+id = "call_received"
+unicode = "e0b5"
+
+[[icons]]
+id = "call_split"
+unicode = "e0b6"
+
+[[icons]]
+id = "call_to_action"
+unicode = "e06c"
+
+[[icons]]
+id = "camera"
+unicode = "e3af"
+
+[[icons]]
+id = "camera_alt"
+unicode = "e3b0"
+
+[[icons]]
+id = "camera_enhance"
+unicode = "e8fc"
+
+[[icons]]
+id = "camera_front"
+unicode = "e3b1"
+
+[[icons]]
+id = "camera_rear"
+unicode = "e3b2"
+
+[[icons]]
+id = "camera_roll"
+unicode = "e3b3"
+
+[[icons]]
+id = "cancel"
+unicode = "e5c9"
+
+[[icons]]
+id = "card_giftcard"
+unicode = "e8f6"
+
+[[icons]]
+id = "card_membership"
+unicode = "e8f7"
+
+[[icons]]
+id = "card_travel"
+unicode = "e8f8"
+
+[[icons]]
+id = "casino"
+unicode = "eb40"
+
+[[icons]]
+id = "cast"
+unicode = "e307"
+
+[[icons]]
+id = "cast_connected"
+unicode = "e308"
+
+[[icons]]
+id = "center_focus_strong"
+unicode = "e3b4"
+
+[[icons]]
+id = "center_focus_weak"
+unicode = "e3b5"
+
+[[icons]]
+id = "change_history"
+unicode = "e86b"
+
+[[icons]]
+id = "chat"
+unicode = "e0b7"
+
+[[icons]]
+id = "chat_bubble"
+unicode = "e0ca"
+
+[[icons]]
+id = "chat_bubble_outline"
+unicode = "e0cb"
+
+[[icons]]
+id = "check"
+unicode = "e5ca"
+
+[[icons]]
+id = "check_box"
+unicode = "e834"
+
+[[icons]]
+id = "check_box_outline_blank"
+unicode = "e835"
+
+[[icons]]
+id = "check_circle"
+unicode = "e86c"
+
+[[icons]]
+id = "chevron_left"
+unicode = "e5cb"
+
+[[icons]]
+id = "chevron_right"
+unicode = "e5cc"
+
+[[icons]]
+id = "child_care"
+unicode = "eb41"
+
+[[icons]]
+id = "child_friendly"
+unicode = "eb42"
+
+[[icons]]
+id = "chrome_reader_mode"
+unicode = "e86d"
+
+[[icons]]
+id = "class"
+unicode = "e86e"
+
+[[icons]]
+id = "clear"
+unicode = "e14c"
+
+[[icons]]
+id = "clear_all"
+unicode = "e0b8"
+
+[[icons]]
+id = "close"
+unicode = "e5cd"
+
+[[icons]]
+id = "closed_caption"
+unicode = "e01c"
+
+[[icons]]
+id = "cloud"
+unicode = "e2bd"
+
+[[icons]]
+id = "cloud_circle"
+unicode = "e2be"
+
+[[icons]]
+id = "cloud_done"
+unicode = "e2bf"
+
+[[icons]]
+id = "cloud_download"
+unicode = "e2c0"
+
+[[icons]]
+id = "cloud_off"
+unicode = "e2c1"
+
+[[icons]]
+id = "cloud_queue"
+unicode = "e2c2"
+
+[[icons]]
+id = "cloud_upload"
+unicode = "e2c3"
+
+[[icons]]
+id = "code"
+unicode = "e86f"
+
+[[icons]]
+id = "collections"
+unicode = "e3b6"
+
+[[icons]]
+id = "collections_bookmark"
+unicode = "e431"
+
+[[icons]]
+id = "color_lens"
+unicode = "e3b7"
+
+[[icons]]
+id = "colorize"
+unicode = "e3b8"
+
+[[icons]]
+id = "comment"
+unicode = "e0b9"
+
+[[icons]]
+id = "compare"
+unicode = "e3b9"
+
+[[icons]]
+id = "compare_arrows"
+unicode = "e915"
+
+[[icons]]
+id = "computer"
+unicode = "e30a"
+
+[[icons]]
+id = "confirmation_number"
+unicode = "e638"
+
+[[icons]]
+id = "contact_mail"
+unicode = "e0d0"
+
+[[icons]]
+id = "contact_phone"
+unicode = "e0cf"
+
+[[icons]]
+id = "contacts"
+unicode = "e0ba"
+
+[[icons]]
+id = "content_copy"
+unicode = "e14d"
+
+[[icons]]
+id = "content_cut"
+unicode = "e14e"
+
+[[icons]]
+id = "content_paste"
+unicode = "e14f"
+
+[[icons]]
+id = "control_point"
+unicode = "e3ba"
+
+[[icons]]
+id = "control_point_duplicate"
+unicode = "e3bb"
+
+[[icons]]
+id = "copyright"
+unicode = "e90c"
+
+[[icons]]
+id = "create"
+unicode = "e150"
+
+[[icons]]
+id = "create_new_folder"
+unicode = "e2cc"
+
+[[icons]]
+id = "credit_card"
+unicode = "e870"
+
+[[icons]]
+id = "crop"
+unicode = "e3be"
+
+[[icons]]
+id = "crop_16_9"
+unicode = "e3bc"
+
+[[icons]]
+id = "crop_3_2"
+unicode = "e3bd"
+
+[[icons]]
+id = "crop_5_4"
+unicode = "e3bf"
+
+[[icons]]
+id = "crop_7_5"
+unicode = "e3c0"
+
+[[icons]]
+id = "crop_din"
+unicode = "e3c1"
+
+[[icons]]
+id = "crop_free"
+unicode = "e3c2"
+
+[[icons]]
+id = "crop_landscape"
+unicode = "e3c3"
+
+[[icons]]
+id = "crop_original"
+unicode = "e3c4"
+
+[[icons]]
+id = "crop_portrait"
+unicode = "e3c5"
+
+[[icons]]
+id = "crop_rotate"
+unicode = "e437"
+
+[[icons]]
+id = "crop_square"
+unicode = "e3c6"
+
+[[icons]]
+id = "dashboard"
+unicode = "e871"
+
+[[icons]]
+id = "data_usage"
+unicode = "e1af"
+
+[[icons]]
+id = "date_range"
+unicode = "e916"
+
+[[icons]]
+id = "dehaze"
+unicode = "e3c7"
+
+[[icons]]
+id = "delete"
+unicode = "e872"
+
+[[icons]]
+id = "delete_forever"
+unicode = "e92b"
+
+[[icons]]
+id = "delete_sweep"
+unicode = "e16c"
+
+[[icons]]
+id = "description"
+unicode = "e873"
+
+[[icons]]
+id = "desktop_mac"
+unicode = "e30b"
+
+[[icons]]
+id = "desktop_windows"
+unicode = "e30c"
+
+[[icons]]
+id = "details"
+unicode = "e3c8"
+
+[[icons]]
+id = "developer_board"
+unicode = "e30d"
+
+[[icons]]
+id = "developer_mode"
+unicode = "e1b0"
+
+[[icons]]
+id = "device_hub"
+unicode = "e335"
+
+[[icons]]
+id = "devices"
+unicode = "e1b1"
+
+[[icons]]
+id = "devices_other"
+unicode = "e337"
+
+[[icons]]
+id = "dialer_sip"
+unicode = "e0bb"
+
+[[icons]]
+id = "dialpad"
+unicode = "e0bc"
+
+[[icons]]
+id = "directions"
+unicode = "e52e"
+
+[[icons]]
+id = "directions_bike"
+unicode = "e52f"
+
+[[icons]]
+id = "directions_boat"
+unicode = "e532"
+
+[[icons]]
+id = "directions_bus"
+unicode = "e530"
+
+[[icons]]
+id = "directions_car"
+unicode = "e531"
+
+[[icons]]
+id = "directions_railway"
+unicode = "e534"
+
+[[icons]]
+id = "directions_run"
+unicode = "e566"
+
+[[icons]]
+id = "directions_subway"
+unicode = "e533"
+
+[[icons]]
+id = "directions_transit"
+unicode = "e535"
+
+[[icons]]
+id = "directions_walk"
+unicode = "e536"
+
+[[icons]]
+id = "disc_full"
+unicode = "e610"
+
+[[icons]]
+id = "dns"
+unicode = "e875"
+
+[[icons]]
+id = "do_not_disturb"
+unicode = "e612"
+
+[[icons]]
+id = "do_not_disturb_alt"
+unicode = "e611"
+
+[[icons]]
+id = "do_not_disturb_off"
+unicode = "e643"
+
+[[icons]]
+id = "do_not_disturb_on"
+unicode = "e644"
+
+[[icons]]
+id = "dock"
+unicode = "e30e"
+
+[[icons]]
+id = "domain"
+unicode = "e7ee"
+
+[[icons]]
+id = "done"
+unicode = "e876"
+
+[[icons]]
+id = "done_all"
+unicode = "e877"
+
+[[icons]]
+id = "donut_large"
+unicode = "e917"
+
+[[icons]]
+id = "donut_small"
+unicode = "e918"
+
+[[icons]]
+id = "drafts"
+unicode = "e151"
+
+[[icons]]
+id = "drag_handle"
+unicode = "e25d"
+
+[[icons]]
+id = "drive_eta"
+unicode = "e613"
+
+[[icons]]
+id = "dvr"
+unicode = "e1b2"
+
+[[icons]]
+id = "edit"
+unicode = "e3c9"
+
+[[icons]]
+id = "edit_location"
+unicode = "e568"
+
+[[icons]]
+id = "eject"
+unicode = "e8fb"
+
+[[icons]]
+id = "email"
+unicode = "e0be"
+
+[[icons]]
+id = "enhanced_encryption"
+unicode = "e63f"
+
+[[icons]]
+id = "equalizer"
+unicode = "e01d"
+
+[[icons]]
+id = "error"
+unicode = "e000"
+
+[[icons]]
+id = "error_outline"
+unicode = "e001"
+
+[[icons]]
+id = "euro_symbol"
+unicode = "e926"
+
+[[icons]]
+id = "ev_station"
+unicode = "e56d"
+
+[[icons]]
+id = "event"
+unicode = "e878"
+
+[[icons]]
+id = "event_available"
+unicode = "e614"
+
+[[icons]]
+id = "event_busy"
+unicode = "e615"
+
+[[icons]]
+id = "event_note"
+unicode = "e616"
+
+[[icons]]
+id = "event_seat"
+unicode = "e903"
+
+[[icons]]
+id = "exit_to_app"
+unicode = "e879"
+
+[[icons]]
+id = "expand_less"
+unicode = "e5ce"
+
+[[icons]]
+id = "expand_more"
+unicode = "e5cf"
+
+[[icons]]
+id = "explicit"
+unicode = "e01e"
+
+[[icons]]
+id = "explore"
+unicode = "e87a"
+
+[[icons]]
+id = "exposure"
+unicode = "e3ca"
+
+[[icons]]
+id = "exposure_neg_1"
+unicode = "e3cb"
+
+[[icons]]
+id = "exposure_neg_2"
+unicode = "e3cc"
+
+[[icons]]
+id = "exposure_plus_1"
+unicode = "e3cd"
+
+[[icons]]
+id = "exposure_plus_2"
+unicode = "e3ce"
+
+[[icons]]
+id = "exposure_zero"
+unicode = "e3cf"
+
+[[icons]]
+id = "extension"
+unicode = "e87b"
+
+[[icons]]
+id = "face"
+unicode = "e87c"
+
+[[icons]]
+id = "fast_forward"
+unicode = "e01f"
+
+[[icons]]
+id = "fast_rewind"
+unicode = "e020"
+
+[[icons]]
+id = "favorite"
+unicode = "e87d"
+
+[[icons]]
+id = "favorite_border"
+unicode = "e87e"
+
+[[icons]]
+id = "featured_play_list"
+unicode = "e06d"
+
+[[icons]]
+id = "featured_video"
+unicode = "e06e"
+
+[[icons]]
+id = "feedback"
+unicode = "e87f"
+
+[[icons]]
+id = "fiber_dvr"
+unicode = "e05d"
+
+[[icons]]
+id = "fiber_manual_record"
+unicode = "e061"
+
+[[icons]]
+id = "fiber_new"
+unicode = "e05e"
+
+[[icons]]
+id = "fiber_pin"
+unicode = "e06a"
+
+[[icons]]
+id = "fiber_smart_record"
+unicode = "e062"
+
+[[icons]]
+id = "file_download"
+unicode = "e2c4"
+
+[[icons]]
+id = "file_upload"
+unicode = "e2c6"
+
+[[icons]]
+id = "filter"
+unicode = "e3d3"
+
+[[icons]]
+id = "filter_1"
+unicode = "e3d0"
+
+[[icons]]
+id = "filter_2"
+unicode = "e3d1"
+
+[[icons]]
+id = "filter_3"
+unicode = "e3d2"
+
+[[icons]]
+id = "filter_4"
+unicode = "e3d4"
+
+[[icons]]
+id = "filter_5"
+unicode = "e3d5"
+
+[[icons]]
+id = "filter_6"
+unicode = "e3d6"
+
+[[icons]]
+id = "filter_7"
+unicode = "e3d7"
+
+[[icons]]
+id = "filter_8"
+unicode = "e3d8"
+
+[[icons]]
+id = "filter_9"
+unicode = "e3d9"
+
+[[icons]]
+id = "filter_9_plus"
+unicode = "e3da"
+
+[[icons]]
+id = "filter_b_and_w"
+unicode = "e3db"
+
+[[icons]]
+id = "filter_center_focus"
+unicode = "e3dc"
+
+[[icons]]
+id = "filter_drama"
+unicode = "e3dd"
+
+[[icons]]
+id = "filter_frames"
+unicode = "e3de"
+
+[[icons]]
+id = "filter_hdr"
+unicode = "e3df"
+
+[[icons]]
+id = "filter_list"
+unicode = "e152"
+
+[[icons]]
+id = "filter_none"
+unicode = "e3e0"
+
+[[icons]]
+id = "filter_tilt_shift"
+unicode = "e3e2"
+
+[[icons]]
+id = "filter_vintage"
+unicode = "e3e3"
+
+[[icons]]
+id = "find_in_page"
+unicode = "e880"
+
+[[icons]]
+id = "find_replace"
+unicode = "e881"
+
+[[icons]]
+id = "fingerprint"
+unicode = "e90d"
+
+[[icons]]
+id = "first_page"
+unicode = "e5dc"
+
+[[icons]]
+id = "fitness_center"
+unicode = "eb43"
+
+[[icons]]
+id = "flag"
+unicode = "e153"
+
+[[icons]]
+id = "flare"
+unicode = "e3e4"
+
+[[icons]]
+id = "flash_auto"
+unicode = "e3e5"
+
+[[icons]]
+id = "flash_off"
+unicode = "e3e6"
+
+[[icons]]
+id = "flash_on"
+unicode = "e3e7"
+
+[[icons]]
+id = "flight"
+unicode = "e539"
+
+[[icons]]
+id = "flight_land"
+unicode = "e904"
+
+[[icons]]
+id = "flight_takeoff"
+unicode = "e905"
+
+[[icons]]
+id = "flip"
+unicode = "e3e8"
+
+[[icons]]
+id = "flip_to_back"
+unicode = "e882"
+
+[[icons]]
+id = "flip_to_front"
+unicode = "e883"
+
+[[icons]]
+id = "folder"
+unicode = "e2c7"
+
+[[icons]]
+id = "folder_open"
+unicode = "e2c8"
+
+[[icons]]
+id = "folder_shared"
+unicode = "e2c9"
+
+[[icons]]
+id = "folder_special"
+unicode = "e617"
+
+[[icons]]
+id = "font_download"
+unicode = "e167"
+
+[[icons]]
+id = "format_align_center"
+unicode = "e234"
+
+[[icons]]
+id = "format_align_justify"
+unicode = "e235"
+
+[[icons]]
+id = "format_align_left"
+unicode = "e236"
+
+[[icons]]
+id = "format_align_right"
+unicode = "e237"
+
+[[icons]]
+id = "format_bold"
+unicode = "e238"
+
+[[icons]]
+id = "format_clear"
+unicode = "e239"
+
+[[icons]]
+id = "format_color_fill"
+unicode = "e23a"
+
+[[icons]]
+id = "format_color_reset"
+unicode = "e23b"
+
+[[icons]]
+id = "format_color_text"
+unicode = "e23c"
+
+[[icons]]
+id = "format_indent_decrease"
+unicode = "e23d"
+
+[[icons]]
+id = "format_indent_increase"
+unicode = "e23e"
+
+[[icons]]
+id = "format_italic"
+unicode = "e23f"
+
+[[icons]]
+id = "format_line_spacing"
+unicode = "e240"
+
+[[icons]]
+id = "format_list_bulleted"
+unicode = "e241"
+
+[[icons]]
+id = "format_list_numbered"
+unicode = "e242"
+
+[[icons]]
+id = "format_paint"
+unicode = "e243"
+
+[[icons]]
+id = "format_quote"
+unicode = "e244"
+
+[[icons]]
+id = "format_shapes"
+unicode = "e25e"
+
+[[icons]]
+id = "format_size"
+unicode = "e245"
+
+[[icons]]
+id = "format_strikethrough"
+unicode = "e246"
+
+[[icons]]
+id = "format_textdirection_l_to_r"
+unicode = "e247"
+
+[[icons]]
+id = "format_textdirection_r_to_l"
+unicode = "e248"
+
+[[icons]]
+id = "format_underlined"
+unicode = "e249"
+
+[[icons]]
+id = "forum"
+unicode = "e0bf"
+
+[[icons]]
+id = "forward"
+unicode = "e154"
+
+[[icons]]
+id = "forward_10"
+unicode = "e056"
+
+[[icons]]
+id = "forward_30"
+unicode = "e057"
+
+[[icons]]
+id = "forward_5"
+unicode = "e058"
+
+[[icons]]
+id = "free_breakfast"
+unicode = "eb44"
+
+[[icons]]
+id = "fullscreen"
+unicode = "e5d0"
+
+[[icons]]
+id = "fullscreen_exit"
+unicode = "e5d1"
+
+[[icons]]
+id = "functions"
+unicode = "e24a"
+
+[[icons]]
+id = "g_translate"
+unicode = "e927"
+
+[[icons]]
+id = "gamepad"
+unicode = "e30f"
+
+[[icons]]
+id = "games"
+unicode = "e021"
+
+[[icons]]
+id = "gavel"
+unicode = "e90e"
+
+[[icons]]
+id = "gesture"
+unicode = "e155"
+
+[[icons]]
+id = "get_app"
+unicode = "e884"
+
+[[icons]]
+id = "gif"
+unicode = "e908"
+
+[[icons]]
+id = "golf_course"
+unicode = "eb45"
+
+[[icons]]
+id = "gps_fixed"
+unicode = "e1b3"
+
+[[icons]]
+id = "gps_not_fixed"
+unicode = "e1b4"
+
+[[icons]]
+id = "gps_off"
+unicode = "e1b5"
+
+[[icons]]
+id = "grade"
+unicode = "e885"
+
+[[icons]]
+id = "gradient"
+unicode = "e3e9"
+
+[[icons]]
+id = "grain"
+unicode = "e3ea"
+
+[[icons]]
+id = "graphic_eq"
+unicode = "e1b8"
+
+[[icons]]
+id = "grid_off"
+unicode = "e3eb"
+
+[[icons]]
+id = "grid_on"
+unicode = "e3ec"
+
+[[icons]]
+id = "group"
+unicode = "e7ef"
+
+[[icons]]
+id = "group_add"
+unicode = "e7f0"
+
+[[icons]]
+id = "group_work"
+unicode = "e886"
+
+[[icons]]
+id = "hd"
+unicode = "e052"
+
+[[icons]]
+id = "hdr_off"
+unicode = "e3ed"
+
+[[icons]]
+id = "hdr_on"
+unicode = "e3ee"
+
+[[icons]]
+id = "hdr_strong"
+unicode = "e3f1"
+
+[[icons]]
+id = "hdr_weak"
+unicode = "e3f2"
+
+[[icons]]
+id = "headset"
+unicode = "e310"
+
+[[icons]]
+id = "headset_mic"
+unicode = "e311"
+
+[[icons]]
+id = "healing"
+unicode = "e3f3"
+
+[[icons]]
+id = "hearing"
+unicode = "e023"
+
+[[icons]]
+id = "help"
+unicode = "e887"
+
+[[icons]]
+id = "help_outline"
+unicode = "e8fd"
+
+[[icons]]
+id = "high_quality"
+unicode = "e024"
+
+[[icons]]
+id = "highlight"
+unicode = "e25f"
+
+[[icons]]
+id = "highlight_off"
+unicode = "e888"
+
+[[icons]]
+id = "history"
+unicode = "e889"
+
+[[icons]]
+id = "home"
+unicode = "e88a"
+
+[[icons]]
+id = "hot_tub"
+unicode = "eb46"
+
+[[icons]]
+id = "hotel"
+unicode = "e53a"
+
+[[icons]]
+id = "hourglass_empty"
+unicode = "e88b"
+
+[[icons]]
+id = "hourglass_full"
+unicode = "e88c"
+
+[[icons]]
+id = "http"
+unicode = "e902"
+
+[[icons]]
+id = "https"
+unicode = "e88d"
+
+[[icons]]
+id = "image"
+unicode = "e3f4"
+
+[[icons]]
+id = "image_aspect_ratio"
+unicode = "e3f5"
+
+[[icons]]
+id = "import_contacts"
+unicode = "e0e0"
+
+[[icons]]
+id = "import_export"
+unicode = "e0c3"
+
+[[icons]]
+id = "important_devices"
+unicode = "e912"
+
+[[icons]]
+id = "inbox"
+unicode = "e156"
+
+[[icons]]
+id = "indeterminate_check_box"
+unicode = "e909"
+
+[[icons]]
+id = "info"
+unicode = "e88e"
+
+[[icons]]
+id = "info_outline"
+unicode = "e88f"
+
+[[icons]]
+id = "input"
+unicode = "e890"
+
+[[icons]]
+id = "insert_chart"
+unicode = "e24b"
+
+[[icons]]
+id = "insert_comment"
+unicode = "e24c"
+
+[[icons]]
+id = "insert_drive_file"
+unicode = "e24d"
+
+[[icons]]
+id = "insert_emoticon"
+unicode = "e24e"
+
+[[icons]]
+id = "insert_invitation"
+unicode = "e24f"
+
+[[icons]]
+id = "insert_link"
+unicode = "e250"
+
+[[icons]]
+id = "insert_photo"
+unicode = "e251"
+
+[[icons]]
+id = "invert_colors"
+unicode = "e891"
+
+[[icons]]
+id = "invert_colors_off"
+unicode = "e0c4"
+
+[[icons]]
+id = "iso"
+unicode = "e3f6"
+
+[[icons]]
+id = "keyboard"
+unicode = "e312"
+
+[[icons]]
+id = "keyboard_arrow_down"
+unicode = "e313"
+
+[[icons]]
+id = "keyboard_arrow_left"
+unicode = "e314"
+
+[[icons]]
+id = "keyboard_arrow_right"
+unicode = "e315"
+
+[[icons]]
+id = "keyboard_arrow_up"
+unicode = "e316"
+
+[[icons]]
+id = "keyboard_backspace"
+unicode = "e317"
+
+[[icons]]
+id = "keyboard_capslock"
+unicode = "e318"
+
+[[icons]]
+id = "keyboard_hide"
+unicode = "e31a"
+
+[[icons]]
+id = "keyboard_return"
+unicode = "e31b"
+
+[[icons]]
+id = "keyboard_tab"
+unicode = "e31c"
+
+[[icons]]
+id = "keyboard_voice"
+unicode = "e31d"
+
+[[icons]]
+id = "kitchen"
+unicode = "eb47"
+
+[[icons]]
+id = "label"
+unicode = "e892"
+
+[[icons]]
+id = "label_outline"
+unicode = "e893"
+
+[[icons]]
+id = "landscape"
+unicode = "e3f7"
+
+[[icons]]
+id = "language"
+unicode = "e894"
+
+[[icons]]
+id = "laptop"
+unicode = "e31e"
+
+[[icons]]
+id = "laptop_chromebook"
+unicode = "e31f"
+
+[[icons]]
+id = "laptop_mac"
+unicode = "e320"
+
+[[icons]]
+id = "laptop_windows"
+unicode = "e321"
+
+[[icons]]
+id = "last_page"
+unicode = "e5dd"
+
+[[icons]]
+id = "launch"
+unicode = "e895"
+
+[[icons]]
+id = "layers"
+unicode = "e53b"
+
+[[icons]]
+id = "layers_clear"
+unicode = "e53c"
+
+[[icons]]
+id = "leak_add"
+unicode = "e3f8"
+
+[[icons]]
+id = "leak_remove"
+unicode = "e3f9"
+
+[[icons]]
+id = "lens"
+unicode = "e3fa"
+
+[[icons]]
+id = "library_add"
+unicode = "e02e"
+
+[[icons]]
+id = "library_books"
+unicode = "e02f"
+
+[[icons]]
+id = "library_music"
+unicode = "e030"
+
+[[icons]]
+id = "lightbulb_outline"
+unicode = "e90f"
+
+[[icons]]
+id = "line_style"
+unicode = "e919"
+
+[[icons]]
+id = "line_weight"
+unicode = "e91a"
+
+[[icons]]
+id = "linear_scale"
+unicode = "e260"
+
+[[icons]]
+id = "link"
+unicode = "e157"
+
+[[icons]]
+id = "linked_camera"
+unicode = "e438"
+
+[[icons]]
+id = "list"
+unicode = "e896"
+
+[[icons]]
+id = "live_help"
+unicode = "e0c6"
+
+[[icons]]
+id = "live_tv"
+unicode = "e639"
+
+[[icons]]
+id = "local_activity"
+unicode = "e53f"
+
+[[icons]]
+id = "local_airport"
+unicode = "e53d"
+
+[[icons]]
+id = "local_atm"
+unicode = "e53e"
+
+[[icons]]
+id = "local_bar"
+unicode = "e540"
+
+[[icons]]
+id = "local_cafe"
+unicode = "e541"
+
+[[icons]]
+id = "local_car_wash"
+unicode = "e542"
+
+[[icons]]
+id = "local_convenience_store"
+unicode = "e543"
+
+[[icons]]
+id = "local_dining"
+unicode = "e556"
+
+[[icons]]
+id = "local_drink"
+unicode = "e544"
+
+[[icons]]
+id = "local_florist"
+unicode = "e545"
+
+[[icons]]
+id = "local_gas_station"
+unicode = "e546"
+
+[[icons]]
+id = "local_grocery_store"
+unicode = "e547"
+
+[[icons]]
+id = "local_hospital"
+unicode = "e548"
+
+[[icons]]
+id = "local_hotel"
+unicode = "e549"
+
+[[icons]]
+id = "local_laundry_service"
+unicode = "e54a"
+
+[[icons]]
+id = "local_library"
+unicode = "e54b"
+
+[[icons]]
+id = "local_mall"
+unicode = "e54c"
+
+[[icons]]
+id = "local_movies"
+unicode = "e54d"
+
+[[icons]]
+id = "local_offer"
+unicode = "e54e"
+
+[[icons]]
+id = "local_parking"
+unicode = "e54f"
+
+[[icons]]
+id = "local_pharmacy"
+unicode = "e550"
+
+[[icons]]
+id = "local_phone"
+unicode = "e551"
+
+[[icons]]
+id = "local_pizza"
+unicode = "e552"
+
+[[icons]]
+id = "local_play"
+unicode = "e553"
+
+[[icons]]
+id = "local_post_office"
+unicode = "e554"
+
+[[icons]]
+id = "local_printshop"
+unicode = "e555"
+
+[[icons]]
+id = "local_see"
+unicode = "e557"
+
+[[icons]]
+id = "local_shipping"
+unicode = "e558"
+
+[[icons]]
+id = "local_taxi"
+unicode = "e559"
+
+[[icons]]
+id = "location_city"
+unicode = "e7f1"
+
+[[icons]]
+id = "location_disabled"
+unicode = "e1b6"
+
+[[icons]]
+id = "location_off"
+unicode = "e0c7"
+
+[[icons]]
+id = "location_on"
+unicode = "e0c8"
+
+[[icons]]
+id = "location_searching"
+unicode = "e1b7"
+
+[[icons]]
+id = "lock"
+unicode = "e897"
+
+[[icons]]
+id = "lock_open"
+unicode = "e898"
+
+[[icons]]
+id = "lock_outline"
+unicode = "e899"
+
+[[icons]]
+id = "looks"
+unicode = "e3fc"
+
+[[icons]]
+id = "looks_3"
+unicode = "e3fb"
+
+[[icons]]
+id = "looks_4"
+unicode = "e3fd"
+
+[[icons]]
+id = "looks_5"
+unicode = "e3fe"
+
+[[icons]]
+id = "looks_6"
+unicode = "e3ff"
+
+[[icons]]
+id = "looks_one"
+unicode = "e400"
+
+[[icons]]
+id = "looks_two"
+unicode = "e401"
+
+[[icons]]
+id = "loop"
+unicode = "e028"
+
+[[icons]]
+id = "loupe"
+unicode = "e402"
+
+[[icons]]
+id = "low_priority"
+unicode = "e16d"
+
+[[icons]]
+id = "loyalty"
+unicode = "e89a"
+
+[[icons]]
+id = "mail"
+unicode = "e158"
+
+[[icons]]
+id = "mail_outline"
+unicode = "e0e1"
+
+[[icons]]
+id = "map"
+unicode = "e55b"
+
+[[icons]]
+id = "markunread"
+unicode = "e159"
+
+[[icons]]
+id = "markunread_mailbox"
+unicode = "e89b"
+
+[[icons]]
+id = "memory"
+unicode = "e322"
+
+[[icons]]
+id = "menu"
+unicode = "e5d2"
+
+[[icons]]
+id = "merge_type"
+unicode = "e252"
+
+[[icons]]
+id = "message"
+unicode = "e0c9"
+
+[[icons]]
+id = "mic"
+unicode = "e029"
+
+[[icons]]
+id = "mic_none"
+unicode = "e02a"
+
+[[icons]]
+id = "mic_off"
+unicode = "e02b"
+
+[[icons]]
+id = "mms"
+unicode = "e618"
+
+[[icons]]
+id = "mode_comment"
+unicode = "e253"
+
+[[icons]]
+id = "mode_edit"
+unicode = "e254"
+
+[[icons]]
+id = "monetization_on"
+unicode = "e263"
+
+[[icons]]
+id = "money_off"
+unicode = "e25c"
+
+[[icons]]
+id = "monochrome_photos"
+unicode = "e403"
+
+[[icons]]
+id = "mood"
+unicode = "e7f2"
+
+[[icons]]
+id = "mood_bad"
+unicode = "e7f3"
+
+[[icons]]
+id = "more"
+unicode = "e619"
+
+[[icons]]
+id = "more_horiz"
+unicode = "e5d3"
+
+[[icons]]
+id = "more_vert"
+unicode = "e5d4"
+
+[[icons]]
+id = "motorcycle"
+unicode = "e91b"
+
+[[icons]]
+id = "mouse"
+unicode = "e323"
+
+[[icons]]
+id = "move_to_inbox"
+unicode = "e168"
+
+[[icons]]
+id = "movie"
+unicode = "e02c"
+
+[[icons]]
+id = "movie_creation"
+unicode = "e404"
+
+[[icons]]
+id = "movie_filter"
+unicode = "e43a"
+
+[[icons]]
+id = "multiline_chart"
+unicode = "e6df"
+
+[[icons]]
+id = "music_note"
+unicode = "e405"
+
+[[icons]]
+id = "music_video"
+unicode = "e063"
+
+[[icons]]
+id = "my_location"
+unicode = "e55c"
+
+[[icons]]
+id = "nature"
+unicode = "e406"
+
+[[icons]]
+id = "nature_people"
+unicode = "e407"
+
+[[icons]]
+id = "navigate_before"
+unicode = "e408"
+
+[[icons]]
+id = "navigate_next"
+unicode = "e409"
+
+[[icons]]
+id = "navigation"
+unicode = "e55d"
+
+[[icons]]
+id = "near_me"
+unicode = "e569"
+
+[[icons]]
+id = "network_cell"
+unicode = "e1b9"
+
+[[icons]]
+id = "network_check"
+unicode = "e640"
+
+[[icons]]
+id = "network_locked"
+unicode = "e61a"
+
+[[icons]]
+id = "network_wifi"
+unicode = "e1ba"
+
+[[icons]]
+id = "new_releases"
+unicode = "e031"
+
+[[icons]]
+id = "next_week"
+unicode = "e16a"
+
+[[icons]]
+id = "nfc"
+unicode = "e1bb"
+
+[[icons]]
+id = "no_encryption"
+unicode = "e641"
+
+[[icons]]
+id = "no_sim"
+unicode = "e0cc"
+
+[[icons]]
+id = "not_interested"
+unicode = "e033"
+
+[[icons]]
+id = "note"
+unicode = "e06f"
+
+[[icons]]
+id = "note_add"
+unicode = "e89c"
+
+[[icons]]
+id = "notifications"
+unicode = "e7f4"
+
+[[icons]]
+id = "notifications_active"
+unicode = "e7f7"
+
+[[icons]]
+id = "notifications_none"
+unicode = "e7f5"
+
+[[icons]]
+id = "notifications_off"
+unicode = "e7f6"
+
+[[icons]]
+id = "notifications_paused"
+unicode = "e7f8"
+
+[[icons]]
+id = "offline_pin"
+unicode = "e90a"
+
+[[icons]]
+id = "ondemand_video"
+unicode = "e63a"
+
+[[icons]]
+id = "opacity"
+unicode = "e91c"
+
+[[icons]]
+id = "open_in_browser"
+unicode = "e89d"
+
+[[icons]]
+id = "open_in_new"
+unicode = "e89e"
+
+[[icons]]
+id = "open_with"
+unicode = "e89f"
+
+[[icons]]
+id = "pages"
+unicode = "e7f9"
+
+[[icons]]
+id = "pageview"
+unicode = "e8a0"
+
+[[icons]]
+id = "palette"
+unicode = "e40a"
+
+[[icons]]
+id = "pan_tool"
+unicode = "e925"
+
+[[icons]]
+id = "panorama"
+unicode = "e40b"
+
+[[icons]]
+id = "panorama_fish_eye"
+unicode = "e40c"
+
+[[icons]]
+id = "panorama_horizontal"
+unicode = "e40d"
+
+[[icons]]
+id = "panorama_vertical"
+unicode = "e40e"
+
+[[icons]]
+id = "panorama_wide_angle"
+unicode = "e40f"
+
+[[icons]]
+id = "party_mode"
+unicode = "e7fa"
+
+[[icons]]
+id = "pause"
+unicode = "e034"
+
+[[icons]]
+id = "pause_circle_filled"
+unicode = "e035"
+
+[[icons]]
+id = "pause_circle_outline"
+unicode = "e036"
+
+[[icons]]
+id = "payment"
+unicode = "e8a1"
+
+[[icons]]
+id = "people"
+unicode = "e7fb"
+
+[[icons]]
+id = "people_outline"
+unicode = "e7fc"
+
+[[icons]]
+id = "perm_camera_mic"
+unicode = "e8a2"
+
+[[icons]]
+id = "perm_contact_calendar"
+unicode = "e8a3"
+
+[[icons]]
+id = "perm_data_setting"
+unicode = "e8a4"
+
+[[icons]]
+id = "perm_device_information"
+unicode = "e8a5"
+
+[[icons]]
+id = "perm_identity"
+unicode = "e8a6"
+
+[[icons]]
+id = "perm_media"
+unicode = "e8a7"
+
+[[icons]]
+id = "perm_phone_msg"
+unicode = "e8a8"
+
+[[icons]]
+id = "perm_scan_wifi"
+unicode = "e8a9"
+
+[[icons]]
+id = "person"
+unicode = "e7fd"
+
+[[icons]]
+id = "person_add"
+unicode = "e7fe"
+
+[[icons]]
+id = "person_outline"
+unicode = "e7ff"
+
+[[icons]]
+id = "person_pin"
+unicode = "e55a"
+
+[[icons]]
+id = "person_pin_circle"
+unicode = "e56a"
+
+[[icons]]
+id = "personal_video"
+unicode = "e63b"
+
+[[icons]]
+id = "pets"
+unicode = "e91d"
+
+[[icons]]
+id = "phone"
+unicode = "e0cd"
+
+[[icons]]
+id = "phone_android"
+unicode = "e324"
+
+[[icons]]
+id = "phone_bluetooth_speaker"
+unicode = "e61b"
+
+[[icons]]
+id = "phone_forwarded"
+unicode = "e61c"
+
+[[icons]]
+id = "phone_in_talk"
+unicode = "e61d"
+
+[[icons]]
+id = "phone_iphone"
+unicode = "e325"
+
+[[icons]]
+id = "phone_locked"
+unicode = "e61e"
+
+[[icons]]
+id = "phone_missed"
+unicode = "e61f"
+
+[[icons]]
+id = "phone_paused"
+unicode = "e620"
+
+[[icons]]
+id = "phonelink"
+unicode = "e326"
+
+[[icons]]
+id = "phonelink_erase"
+unicode = "e0db"
+
+[[icons]]
+id = "phonelink_lock"
+unicode = "e0dc"
+
+[[icons]]
+id = "phonelink_off"
+unicode = "e327"
+
+[[icons]]
+id = "phonelink_ring"
+unicode = "e0dd"
+
+[[icons]]
+id = "phonelink_setup"
+unicode = "e0de"
+
+[[icons]]
+id = "photo"
+unicode = "e410"
+
+[[icons]]
+id = "photo_album"
+unicode = "e411"
+
+[[icons]]
+id = "photo_camera"
+unicode = "e412"
+
+[[icons]]
+id = "photo_filter"
+unicode = "e43b"
+
+[[icons]]
+id = "photo_library"
+unicode = "e413"
+
+[[icons]]
+id = "photo_size_select_actual"
+unicode = "e432"
+
+[[icons]]
+id = "photo_size_select_large"
+unicode = "e433"
+
+[[icons]]
+id = "photo_size_select_small"
+unicode = "e434"
+
+[[icons]]
+id = "picture_as_pdf"
+unicode = "e415"
+
+[[icons]]
+id = "picture_in_picture"
+unicode = "e8aa"
+
+[[icons]]
+id = "picture_in_picture_alt"
+unicode = "e911"
+
+[[icons]]
+id = "pie_chart"
+unicode = "e6c4"
+
+[[icons]]
+id = "pie_chart_outlined"
+unicode = "e6c5"
+
+[[icons]]
+id = "pin_drop"
+unicode = "e55e"
+
+[[icons]]
+id = "place"
+unicode = "e55f"
+
+[[icons]]
+id = "play_arrow"
+unicode = "e037"
+
+[[icons]]
+id = "play_circle_filled"
+unicode = "e038"
+
+[[icons]]
+id = "play_circle_outline"
+unicode = "e039"
+
+[[icons]]
+id = "play_for_work"
+unicode = "e906"
+
+[[icons]]
+id = "playlist_add"
+unicode = "e03b"
+
+[[icons]]
+id = "playlist_add_check"
+unicode = "e065"
+
+[[icons]]
+id = "playlist_play"
+unicode = "e05f"
+
+[[icons]]
+id = "plus_one"
+unicode = "e800"
+
+[[icons]]
+id = "poll"
+unicode = "e801"
+
+[[icons]]
+id = "polymer"
+unicode = "e8ab"
+
+[[icons]]
+id = "pool"
+unicode = "eb48"
+
+[[icons]]
+id = "portable_wifi_off"
+unicode = "e0ce"
+
+[[icons]]
+id = "portrait"
+unicode = "e416"
+
+[[icons]]
+id = "power"
+unicode = "e63c"
+
+[[icons]]
+id = "power_input"
+unicode = "e336"
+
+[[icons]]
+id = "power_settings_new"
+unicode = "e8ac"
+
+[[icons]]
+id = "pregnant_woman"
+unicode = "e91e"
+
+[[icons]]
+id = "present_to_all"
+unicode = "e0df"
+
+[[icons]]
+id = "print"
+unicode = "e8ad"
+
+[[icons]]
+id = "priority_high"
+unicode = "e645"
+
+[[icons]]
+id = "public"
+unicode = "e80b"
+
+[[icons]]
+id = "publish"
+unicode = "e255"
+
+[[icons]]
+id = "query_builder"
+unicode = "e8ae"
+
+[[icons]]
+id = "question_answer"
+unicode = "e8af"
+
+[[icons]]
+id = "queue"
+unicode = "e03c"
+
+[[icons]]
+id = "queue_music"
+unicode = "e03d"
+
+[[icons]]
+id = "queue_play_next"
+unicode = "e066"
+
+[[icons]]
+id = "radio"
+unicode = "e03e"
+
+[[icons]]
+id = "radio_button_checked"
+unicode = "e837"
+
+[[icons]]
+id = "radio_button_unchecked"
+unicode = "e836"
+
+[[icons]]
+id = "rate_review"
+unicode = "e560"
+
+[[icons]]
+id = "receipt"
+unicode = "e8b0"
+
+[[icons]]
+id = "recent_actors"
+unicode = "e03f"
+
+[[icons]]
+id = "record_voice_over"
+unicode = "e91f"
+
+[[icons]]
+id = "redeem"
+unicode = "e8b1"
+
+[[icons]]
+id = "redo"
+unicode = "e15a"
+
+[[icons]]
+id = "refresh"
+unicode = "e5d5"
+
+[[icons]]
+id = "remove"
+unicode = "e15b"
+
+[[icons]]
+id = "remove_circle"
+unicode = "e15c"
+
+[[icons]]
+id = "remove_circle_outline"
+unicode = "e15d"
+
+[[icons]]
+id = "remove_from_queue"
+unicode = "e067"
+
+[[icons]]
+id = "remove_red_eye"
+unicode = "e417"
+
+[[icons]]
+id = "remove_shopping_cart"
+unicode = "e928"
+
+[[icons]]
+id = "reorder"
+unicode = "e8fe"
+
+[[icons]]
+id = "repeat"
+unicode = "e040"
+
+[[icons]]
+id = "repeat_one"
+unicode = "e041"
+
+[[icons]]
+id = "replay"
+unicode = "e042"
+
+[[icons]]
+id = "replay_10"
+unicode = "e059"
+
+[[icons]]
+id = "replay_30"
+unicode = "e05a"
+
+[[icons]]
+id = "replay_5"
+unicode = "e05b"
+
+[[icons]]
+id = "reply"
+unicode = "e15e"
+
+[[icons]]
+id = "reply_all"
+unicode = "e15f"
+
+[[icons]]
+id = "report"
+unicode = "e160"
+
+[[icons]]
+id = "report_problem"
+unicode = "e8b2"
+
+[[icons]]
+id = "restaurant"
+unicode = "e56c"
+
+[[icons]]
+id = "restaurant_menu"
+unicode = "e561"
+
+[[icons]]
+id = "restore"
+unicode = "e8b3"
+
+[[icons]]
+id = "restore_page"
+unicode = "e929"
+
+[[icons]]
+id = "ring_volume"
+unicode = "e0d1"
+
+[[icons]]
+id = "room"
+unicode = "e8b4"
+
+[[icons]]
+id = "room_service"
+unicode = "eb49"
+
+[[icons]]
+id = "rotate_90_degrees_ccw"
+unicode = "e418"
+
+[[icons]]
+id = "rotate_left"
+unicode = "e419"
+
+[[icons]]
+id = "rotate_right"
+unicode = "e41a"
+
+[[icons]]
+id = "rounded_corner"
+unicode = "e920"
+
+[[icons]]
+id = "router"
+unicode = "e328"
+
+[[icons]]
+id = "rowing"
+unicode = "e921"
+
+[[icons]]
+id = "rss_feed"
+unicode = "e0e5"
+
+[[icons]]
+id = "rv_hookup"
+unicode = "e642"
+
+[[icons]]
+id = "satellite"
+unicode = "e562"
+
+[[icons]]
+id = "save"
+unicode = "e161"
+
+[[icons]]
+id = "scanner"
+unicode = "e329"
+
+[[icons]]
+id = "schedule"
+unicode = "e8b5"
+
+[[icons]]
+id = "school"
+unicode = "e80c"
+
+[[icons]]
+id = "screen_lock_landscape"
+unicode = "e1be"
+
+[[icons]]
+id = "screen_lock_portrait"
+unicode = "e1bf"
+
+[[icons]]
+id = "screen_lock_rotation"
+unicode = "e1c0"
+
+[[icons]]
+id = "screen_rotation"
+unicode = "e1c1"
+
+[[icons]]
+id = "screen_share"
+unicode = "e0e2"
+
+[[icons]]
+id = "sd_card"
+unicode = "e623"
+
+[[icons]]
+id = "sd_storage"
+unicode = "e1c2"
+
+[[icons]]
+id = "search"
+unicode = "e8b6"
+
+[[icons]]
+id = "security"
+unicode = "e32a"
+
+[[icons]]
+id = "select_all"
+unicode = "e162"
+
+[[icons]]
+id = "send"
+unicode = "e163"
+
+[[icons]]
+id = "sentiment_dissatisfied"
+unicode = "e811"
+
+[[icons]]
+id = "sentiment_neutral"
+unicode = "e812"
+
+[[icons]]
+id = "sentiment_satisfied"
+unicode = "e813"
+
+[[icons]]
+id = "sentiment_very_dissatisfied"
+unicode = "e814"
+
+[[icons]]
+id = "sentiment_very_satisfied"
+unicode = "e815"
+
+[[icons]]
+id = "settings"
+unicode = "e8b8"
+
+[[icons]]
+id = "settings_applications"
+unicode = "e8b9"
+
+[[icons]]
+id = "settings_backup_restore"
+unicode = "e8ba"
+
+[[icons]]
+id = "settings_bluetooth"
+unicode = "e8bb"
+
+[[icons]]
+id = "settings_brightness"
+unicode = "e8bd"
+
+[[icons]]
+id = "settings_cell"
+unicode = "e8bc"
+
+[[icons]]
+id = "settings_ethernet"
+unicode = "e8be"
+
+[[icons]]
+id = "settings_input_antenna"
+unicode = "e8bf"
+
+[[icons]]
+id = "settings_input_component"
+unicode = "e8c0"
+
+[[icons]]
+id = "settings_input_composite"
+unicode = "e8c1"
+
+[[icons]]
+id = "settings_input_hdmi"
+unicode = "e8c2"
+
+[[icons]]
+id = "settings_input_svideo"
+unicode = "e8c3"
+
+[[icons]]
+id = "settings_overscan"
+unicode = "e8c4"
+
+[[icons]]
+id = "settings_phone"
+unicode = "e8c5"
+
+[[icons]]
+id = "settings_power"
+unicode = "e8c6"
+
+[[icons]]
+id = "settings_remote"
+unicode = "e8c7"
+
+[[icons]]
+id = "settings_system_daydream"
+unicode = "e1c3"
+
+[[icons]]
+id = "settings_voice"
+unicode = "e8c8"
+
+[[icons]]
+id = "share"
+unicode = "e80d"
+
+[[icons]]
+id = "shop"
+unicode = "e8c9"
+
+[[icons]]
+id = "shop_two"
+unicode = "e8ca"
+
+[[icons]]
+id = "shopping_basket"
+unicode = "e8cb"
+
+[[icons]]
+id = "shopping_cart"
+unicode = "e8cc"
+
+[[icons]]
+id = "short_text"
+unicode = "e261"
+
+[[icons]]
+id = "show_chart"
+unicode = "e6e1"
+
+[[icons]]
+id = "shuffle"
+unicode = "e043"
+
+[[icons]]
+id = "signal_cellular_4_bar"
+unicode = "e1c8"
+
+[[icons]]
+id = "signal_cellular_connected_no_internet_4_bar"
+unicode = "e1cd"
+
+[[icons]]
+id = "signal_cellular_no_sim"
+unicode = "e1ce"
+
+[[icons]]
+id = "signal_cellular_null"
+unicode = "e1cf"
+
+[[icons]]
+id = "signal_cellular_off"
+unicode = "e1d0"
+
+[[icons]]
+id = "signal_wifi_4_bar"
+unicode = "e1d8"
+
+[[icons]]
+id = "signal_wifi_4_bar_lock"
+unicode = "e1d9"
+
+[[icons]]
+id = "signal_wifi_off"
+unicode = "e1da"
+
+[[icons]]
+id = "sim_card"
+unicode = "e32b"
+
+[[icons]]
+id = "sim_card_alert"
+unicode = "e624"
+
+[[icons]]
+id = "skip_next"
+unicode = "e044"
+
+[[icons]]
+id = "skip_previous"
+unicode = "e045"
+
+[[icons]]
+id = "slideshow"
+unicode = "e41b"
+
+[[icons]]
+id = "slow_motion_video"
+unicode = "e068"
+
+[[icons]]
+id = "smartphone"
+unicode = "e32c"
+
+[[icons]]
+id = "smoke_free"
+unicode = "eb4a"
+
+[[icons]]
+id = "smoking_rooms"
+unicode = "eb4b"
+
+[[icons]]
+id = "sms"
+unicode = "e625"
+
+[[icons]]
+id = "sms_failed"
+unicode = "e626"
+
+[[icons]]
+id = "snooze"
+unicode = "e046"
+
+[[icons]]
+id = "sort"
+unicode = "e164"
+
+[[icons]]
+id = "sort_by_alpha"
+unicode = "e053"
+
+[[icons]]
+id = "spa"
+unicode = "eb4c"
+
+[[icons]]
+id = "space_bar"
+unicode = "e256"
+
+[[icons]]
+id = "speaker"
+unicode = "e32d"
+
+[[icons]]
+id = "speaker_group"
+unicode = "e32e"
+
+[[icons]]
+id = "speaker_notes"
+unicode = "e8cd"
+
+[[icons]]
+id = "speaker_notes_off"
+unicode = "e92a"
+
+[[icons]]
+id = "speaker_phone"
+unicode = "e0d2"
+
+[[icons]]
+id = "spellcheck"
+unicode = "e8ce"
+
+[[icons]]
+id = "star"
+unicode = "e838"
+
+[[icons]]
+id = "star_border"
+unicode = "e83a"
+
+[[icons]]
+id = "star_half"
+unicode = "e839"
+
+[[icons]]
+id = "stars"
+unicode = "e8d0"
+
+[[icons]]
+id = "stay_current_landscape"
+unicode = "e0d3"
+
+[[icons]]
+id = "stay_current_portrait"
+unicode = "e0d4"
+
+[[icons]]
+id = "stay_primary_landscape"
+unicode = "e0d5"
+
+[[icons]]
+id = "stay_primary_portrait"
+unicode = "e0d6"
+
+[[icons]]
+id = "stop"
+unicode = "e047"
+
+[[icons]]
+id = "stop_screen_share"
+unicode = "e0e3"
+
+[[icons]]
+id = "storage"
+unicode = "e1db"
+
+[[icons]]
+id = "store"
+unicode = "e8d1"
+
+[[icons]]
+id = "store_mall_directory"
+unicode = "e563"
+
+[[icons]]
+id = "straighten"
+unicode = "e41c"
+
+[[icons]]
+id = "streetview"
+unicode = "e56e"
+
+[[icons]]
+id = "strikethrough_s"
+unicode = "e257"
+
+[[icons]]
+id = "style"
+unicode = "e41d"
+
+[[icons]]
+id = "subdirectory_arrow_left"
+unicode = "e5d9"
+
+[[icons]]
+id = "subdirectory_arrow_right"
+unicode = "e5da"
+
+[[icons]]
+id = "subject"
+unicode = "e8d2"
+
+[[icons]]
+id = "subscriptions"
+unicode = "e064"
+
+[[icons]]
+id = "subtitles"
+unicode = "e048"
+
+[[icons]]
+id = "subway"
+unicode = "e56f"
+
+[[icons]]
+id = "supervisor_account"
+unicode = "e8d3"
+
+[[icons]]
+id = "surround_sound"
+unicode = "e049"
+
+[[icons]]
+id = "swap_calls"
+unicode = "e0d7"
+
+[[icons]]
+id = "swap_horiz"
+unicode = "e8d4"
+
+[[icons]]
+id = "swap_vert"
+unicode = "e8d5"
+
+[[icons]]
+id = "swap_vertical_circle"
+unicode = "e8d6"
+
+[[icons]]
+id = "switch_camera"
+unicode = "e41e"
+
+[[icons]]
+id = "switch_video"
+unicode = "e41f"
+
+[[icons]]
+id = "sync"
+unicode = "e627"
+
+[[icons]]
+id = "sync_disabled"
+unicode = "e628"
+
+[[icons]]
+id = "sync_problem"
+unicode = "e629"
+
+[[icons]]
+id = "system_update"
+unicode = "e62a"
+
+[[icons]]
+id = "system_update_alt"
+unicode = "e8d7"
+
+[[icons]]
+id = "tab"
+unicode = "e8d8"
+
+[[icons]]
+id = "tab_unselected"
+unicode = "e8d9"
+
+[[icons]]
+id = "tablet"
+unicode = "e32f"
+
+[[icons]]
+id = "tablet_android"
+unicode = "e330"
+
+[[icons]]
+id = "tablet_mac"
+unicode = "e331"
+
+[[icons]]
+id = "tag_faces"
+unicode = "e420"
+
+[[icons]]
+id = "tap_and_play"
+unicode = "e62b"
+
+[[icons]]
+id = "terrain"
+unicode = "e564"
+
+[[icons]]
+id = "text_fields"
+unicode = "e262"
+
+[[icons]]
+id = "text_format"
+unicode = "e165"
+
+[[icons]]
+id = "textsms"
+unicode = "e0d8"
+
+[[icons]]
+id = "texture"
+unicode = "e421"
+
+[[icons]]
+id = "theaters"
+unicode = "e8da"
+
+[[icons]]
+id = "thumb_down"
+unicode = "e8db"
+
+[[icons]]
+id = "thumb_up"
+unicode = "e8dc"
+
+[[icons]]
+id = "thumbs_up_down"
+unicode = "e8dd"
+
+[[icons]]
+id = "time_to_leave"
+unicode = "e62c"
+
+[[icons]]
+id = "timelapse"
+unicode = "e422"
+
+[[icons]]
+id = "timeline"
+unicode = "e922"
+
+[[icons]]
+id = "timer"
+unicode = "e425"
+
+[[icons]]
+id = "timer_10"
+unicode = "e423"
+
+[[icons]]
+id = "timer_3"
+unicode = "e424"
+
+[[icons]]
+id = "timer_off"
+unicode = "e426"
+
+[[icons]]
+id = "title"
+unicode = "e264"
+
+[[icons]]
+id = "toc"
+unicode = "e8de"
+
+[[icons]]
+id = "today"
+unicode = "e8df"
+
+[[icons]]
+id = "toll"
+unicode = "e8e0"
+
+[[icons]]
+id = "tonality"
+unicode = "e427"
+
+[[icons]]
+id = "touch_app"
+unicode = "e913"
+
+[[icons]]
+id = "toys"
+unicode = "e332"
+
+[[icons]]
+id = "track_changes"
+unicode = "e8e1"
+
+[[icons]]
+id = "traffic"
+unicode = "e565"
+
+[[icons]]
+id = "train"
+unicode = "e570"
+
+[[icons]]
+id = "tram"
+unicode = "e571"
+
+[[icons]]
+id = "transfer_within_a_station"
+unicode = "e572"
+
+[[icons]]
+id = "transform"
+unicode = "e428"
+
+[[icons]]
+id = "translate"
+unicode = "e8e2"
+
+[[icons]]
+id = "trending_down"
+unicode = "e8e3"
+
+[[icons]]
+id = "trending_flat"
+unicode = "e8e4"
+
+[[icons]]
+id = "trending_up"
+unicode = "e8e5"
+
+[[icons]]
+id = "tune"
+unicode = "e429"
+
+[[icons]]
+id = "turned_in"
+unicode = "e8e6"
+
+[[icons]]
+id = "turned_in_not"
+unicode = "e8e7"
+
+[[icons]]
+id = "tv"
+unicode = "e333"
+
+[[icons]]
+id = "unarchive"
+unicode = "e169"
+
+[[icons]]
+id = "undo"
+unicode = "e166"
+
+[[icons]]
+id = "unfold_less"
+unicode = "e5d6"
+
+[[icons]]
+id = "unfold_more"
+unicode = "e5d7"
+
+[[icons]]
+id = "update"
+unicode = "e923"
+
+[[icons]]
+id = "usb"
+unicode = "e1e0"
+
+[[icons]]
+id = "verified_user"
+unicode = "e8e8"
+
+[[icons]]
+id = "vertical_align_bottom"
+unicode = "e258"
+
+[[icons]]
+id = "vertical_align_center"
+unicode = "e259"
+
+[[icons]]
+id = "vertical_align_top"
+unicode = "e25a"
+
+[[icons]]
+id = "vibration"
+unicode = "e62d"
+
+[[icons]]
+id = "video_call"
+unicode = "e070"
+
+[[icons]]
+id = "video_label"
+unicode = "e071"
+
+[[icons]]
+id = "video_library"
+unicode = "e04a"
+
+[[icons]]
+id = "videocam"
+unicode = "e04b"
+
+[[icons]]
+id = "videocam_off"
+unicode = "e04c"
+
+[[icons]]
+id = "videogame_asset"
+unicode = "e338"
+
+[[icons]]
+id = "view_agenda"
+unicode = "e8e9"
+
+[[icons]]
+id = "view_array"
+unicode = "e8ea"
+
+[[icons]]
+id = "view_carousel"
+unicode = "e8eb"
+
+[[icons]]
+id = "view_column"
+unicode = "e8ec"
+
+[[icons]]
+id = "view_comfy"
+unicode = "e42a"
+
+[[icons]]
+id = "view_compact"
+unicode = "e42b"
+
+[[icons]]
+id = "view_day"
+unicode = "e8ed"
+
+[[icons]]
+id = "view_headline"
+unicode = "e8ee"
+
+[[icons]]
+id = "view_list"
+unicode = "e8ef"
+
+[[icons]]
+id = "view_module"
+unicode = "e8f0"
+
+[[icons]]
+id = "view_quilt"
+unicode = "e8f1"
+
+[[icons]]
+id = "view_stream"
+unicode = "e8f2"
+
+[[icons]]
+id = "view_week"
+unicode = "e8f3"
+
+[[icons]]
+id = "vignette"
+unicode = "e435"
+
+[[icons]]
+id = "visibility"
+unicode = "e8f4"
+
+[[icons]]
+id = "visibility_off"
+unicode = "e8f5"
+
+[[icons]]
+id = "voice_chat"
+unicode = "e62e"
+
+[[icons]]
+id = "voicemail"
+unicode = "e0d9"
+
+[[icons]]
+id = "volume_down"
+unicode = "e04d"
+
+[[icons]]
+id = "volume_mute"
+unicode = "e04e"
+
+[[icons]]
+id = "volume_off"
+unicode = "e04f"
+
+[[icons]]
+id = "volume_up"
+unicode = "e050"
+
+[[icons]]
+id = "vpn_key"
+unicode = "e0da"
+
+[[icons]]
+id = "vpn_lock"
+unicode = "e62f"
+
+[[icons]]
+id = "wallpaper"
+unicode = "e1bc"
+
+[[icons]]
+id = "warning"
+unicode = "e002"
+
+[[icons]]
+id = "watch"
+unicode = "e334"
+
+[[icons]]
+id = "watch_later"
+unicode = "e924"
+
+[[icons]]
+id = "wb_auto"
+unicode = "e42c"
+
+[[icons]]
+id = "wb_cloudy"
+unicode = "e42d"
+
+[[icons]]
+id = "wb_incandescent"
+unicode = "e42e"
+
+[[icons]]
+id = "wb_iridescent"
+unicode = "e436"
+
+[[icons]]
+id = "wb_sunny"
+unicode = "e430"
+
+[[icons]]
+id = "wc"
+unicode = "e63d"
+
+[[icons]]
+id = "web"
+unicode = "e051"
+
+[[icons]]
+id = "web_asset"
+unicode = "e069"
+
+[[icons]]
+id = "weekend"
+unicode = "e16b"
+
+[[icons]]
+id = "whatshot"
+unicode = "e80e"
+
+[[icons]]
+id = "widgets"
+unicode = "e1bd"
+
+[[icons]]
+id = "wifi"
+unicode = "e63e"
+
+[[icons]]
+id = "wifi_lock"
+unicode = "e1e1"
+
+[[icons]]
+id = "wifi_tethering"
+unicode = "e1e2"
+
+[[icons]]
+id = "work"
+unicode = "e8f9"
+
+[[icons]]
+id = "wrap_text"
+unicode = "e25b"
+
+[[icons]]
+id = "youtube_searched_for"
+unicode = "e8fa"
+
+[[icons]]
+id = "zoom_in"
+unicode = "e8ff"
+
+[[icons]]
+id = "zoom_out"
+unicode = "e900"
+
+[[icons]]
+id = "zoom_out_map"
+unicode = "e56b"
