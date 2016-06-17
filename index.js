@@ -1,3 +1,1 @@
-module.exports = function () {
-	return require('./character-list/character-list.json');
-};
+module.exports = require('./character-list/character-list.json');

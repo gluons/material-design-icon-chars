@@ -21,13 +21,13 @@
 			"warn"
 		],
 		"no-console": [
-			"warn"
+			"off"
 		],
 		"no-redeclare": [
 			"warn"
 		],
 		"space-before-function-paren": [
-			"error"
+			"off"
 		],
 		"space-infix-ops": [
 			"error",

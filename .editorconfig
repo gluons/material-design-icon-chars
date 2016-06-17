@@ -5,6 +5,6 @@ indent_style = tab
 indent_size = 4
 charset = utf-8
 
-[*.{coffee,yml,yaml,jade,pug}]
+[{*.{coffee,yml,yaml,jade,pug},{package,bower}.json}]
 indent_style = space
 indent_size = 2
