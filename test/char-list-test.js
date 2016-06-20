@@ -9,7 +9,7 @@ var yaml = require('js-yaml');
 
 var iconCount = 932;
 
-describe('Build character list files', function() {
+describe('Character list files', function() {
 	it('should create valid CSON character list file', function() {
 		expect(function() {
 			fs.accessSync('character-list/character-list.cson', fs.F_OK | fs.R_OK);
