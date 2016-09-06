@@ -5,7 +5,6 @@ var plumber = require('gulp-plumber');
 var json2cson = require('gulp-json2cson');
 
 var del = require('del');
-var Q = require('q');
 var readline = require('linebyline');
 var tomlify = require('tomlify-j0.4');
 var xmlBuilder = require('xmlbuilder');
@@ -32,7 +31,7 @@ var createStream = function (filename, content) {
 };
 
 var convertSrc = function () {
-	return Q.Promise(function (resolve) {
+	return new Promise(function (resolve, reject) {
 		var fs = require('fs');
 		var rl = readline('node_modules/material-design-icons/iconfont/codepoints');
 		var iconCodeData = {
@@ -48,26 +47,30 @@ var convertSrc = function () {
 			});
 		});
 		rl.on('end', function () {
-			fs.writeFile('material-design/icons.json', JSON.stringify(iconCodeData, null, '\t'), resolve);
+			fs.writeFile('material-design/icons.json', JSON.stringify(iconCodeData, null, '\t'), function (err) {
+				if (err) {
+					reject(err);
+				} else {
+					resolve();
+				}
+			});
 		});
 	});
 };
 
 var loadIcon = function () {
-	return Q.Promise(function (resolve) {
-		var icons = require('./material-design/icons.json').icons;
-		var charList = {
-			icons: []
+	var icons = require('./material-design/icons.json').icons;
+	var charList = {
+		icons: []
+	};
+	for (var icon of icons) {
+		var newIcon = {
+			id: icon.name,
+			unicode: icon.code
 		};
-		for (var icon of icons) {
-			var newIcon = {
-				id: icon.name,
-				unicode: icon.code
-			};
-			charList.icons.push(newIcon);
-		}
-		resolve(charList);
-	});
+		charList.icons.push(newIcon);
+	}
+	return Promise.resolve(charList);
 };
 
 /*
@@ -75,44 +78,30 @@ var loadIcon = function () {
  */
 
 gulp.task('make:json', 'Build JSON character list file.', ['clean'], function () {
-	return [
-		convertSrc,
-		loadIcon,
-		function (icons) {
-			return Q.Promise(function (resolve) {
+	return convertSrc()
+			.then(loadIcon)
+			.then(function (icons) {
 				var fileStream = createStream('character-list.json', JSON.stringify(icons, null, '\t'));
 				fileStream.pipe(gulp.dest('character-list'));
-				fileStream.on('end', function () {
-					resolve();
-				});
+				return fileStream;
 			});
-		}
-	].reduce(Q.when, Q());
 });
 
 gulp.task('make:cson', 'Build CSON character list file.', ['clean'], function () {
-	return [
-		convertSrc,
-		loadIcon,
-		function (icons) {
-			return Q.Promise(function (resolve) {
+	return convertSrc()
+			.then(loadIcon)
+			.then(function (icons) {
 				var fileStream = createStream('character-list.json', JSON.stringify(icons, null, '\t'));
 				fileStream.pipe(json2cson()).pipe(gulp.dest('character-list'));
-				fileStream.on('end', function () {
-					resolve();
-				});
+				return fileStream;
 			});
-		}
-	].reduce(Q.when, Q());
 });
 
 gulp.task('make:xml', 'Build XML character list file.', ['clean'], function () {
-	return [
-		convertSrc,
-		loadIcon,
-		function (icons) {
-			icons = icons.icons;
-			return Q.Promise(function (resolve) {
+	return convertSrc()
+			.then(loadIcon)
+			.then(function (icons) {
+				icons = icons.icons;
 				var xmlObj = {
 					icons: {
 						icon: []
@@ -133,44 +122,28 @@ gulp.task('make:xml', 'Build XML character list file.', ['clean'], function () {
 
 				var fileStream = createStream('character-list.xml', xmlStr);
 				fileStream.pipe(gulp.dest('character-list'));
-				fileStream.on('end', function () {
-					resolve();
-				});
+				return fileStream;
 			});
-		}
-	].reduce(Q.when, Q());
 });
 
 gulp.task('make:yaml', 'Build YAML character list file.', ['clean'], function () {
-	return [
-		convertSrc,
-		loadIcon,
-		function (icons) {
-			return Q.Promise(function (resolve) {
+	return convertSrc()
+			.then(loadIcon)
+			.then(function (icons) {
 				var fileStream = createStream('character-list.yaml', '---\n' + yaml.safeDump(icons));
 				fileStream.pipe(gulp.dest('character-list'));
-				fileStream.on('end', function () {
-					resolve();
-				});
+				return fileStream;
 			});
-		}
-	].reduce(Q.when, Q());
 });
 
 gulp.task('make:toml', 'Build TOML character list file.', ['clean'], function () {
-	return [
-		convertSrc,
-		loadIcon,
-		function (icons) {
-			return Q.Promise(function (resolve) {
+	return convertSrc()
+			.then(loadIcon)
+			.then(function (icons) {
 				var fileStream = createStream('character-list.toml', tomlify(icons, null, 2));
 				fileStream.pipe(gulp.dest('character-list'));
-				fileStream.on('end', function () {
-					resolve();
-				});
+				return fileStream;
 			});
-		}
-	].reduce(Q.when, Q());
 });
 
 gulp.task('make', 'Build all file format.', ['make:json', 'make:cson', 'make:xml', 'make:yaml', 'make:toml']);
