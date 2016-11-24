@@ -14,7 +14,7 @@ gulp.task('clean', 'Clean all built file.', function () {
 	return del(['character-list/*']);
 });
 
-gulp.task('make:json', 'Build JSON character list file.', ['clean'], function () {
+gulp.task('build:json', 'Build JSON character list file.', ['clean'], function () {
 	return utils.getSource().then(function (icons) {
 		let fileStream = utils.createStream('character-list.json', JSON.stringify(icons, null, '\t'));
 		fileStream
@@ -24,7 +24,7 @@ gulp.task('make:json', 'Build JSON character list file.', ['clean'], function ()
 	});
 });
 
-gulp.task('make:cson', 'Build CSON character list file.', ['clean'], function () {
+gulp.task('build:cson', 'Build CSON character list file.', ['clean'], function () {
 	return utils.getSource().then(function (icons) {
 		let fileStream = utils.createStream('character-list.json', JSON.stringify(icons, null, '\t'));
 		fileStream
@@ -35,7 +35,7 @@ gulp.task('make:cson', 'Build CSON character list file.', ['clean'], function ()
 	});
 });
 
-gulp.task('make:xml', 'Build XML character list file.', ['clean'], function () {
+gulp.task('build:xml', 'Build XML character list file.', ['clean'], function () {
 	return utils.getSource().then(function (icons) {
 		icons = icons.icons;
 		let xmlObj = {
@@ -64,7 +64,7 @@ gulp.task('make:xml', 'Build XML character list file.', ['clean'], function () {
 	});
 });
 
-gulp.task('make:yaml', 'Build YAML character list file.', ['clean'], function () {
+gulp.task('build:yaml', 'Build YAML character list file.', ['clean'], function () {
 	return utils.getSource().then(function (icons) {
 		let fileStream = utils.createStream('character-list.yaml', '---\n' + yaml.safeDump(icons));
 		fileStream
@@ -74,7 +74,7 @@ gulp.task('make:yaml', 'Build YAML character list file.', ['clean'], function ()
 	});
 });
 
-gulp.task('make:toml', 'Build TOML character list file.', ['clean'], function () {
+gulp.task('build:toml', 'Build TOML character list file.', ['clean'], function () {
 	return utils.getSource().then(function (icons) {
 		let fileStream = utils.createStream('character-list.toml', tomlify(icons, null, 2));
 		fileStream
@@ -84,6 +84,6 @@ gulp.task('make:toml', 'Build TOML character list file.', ['clean'], function ()
 	});
 });
 
-gulp.task('make', 'Build all file format.', ['make:json', 'make:cson', 'make:xml', 'make:yaml', 'make:toml']);
+gulp.task('build', 'Build all file format.', ['build:json', 'build:cson', 'build:xml', 'build:yaml', 'build:toml']);
 
-gulp.task('default', 'Default task. Run "make" task.', ['make']);
+gulp.task('default', 'Default task. Run "build" task.', ['build']);
