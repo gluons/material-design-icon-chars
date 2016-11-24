@@ -20,7 +20,7 @@ You can use character list file in [character-list](./character-list) directory.
 ## Build
 - Build all file.
   ```
-  gulp make
+  gulp build
   ```
   Or use default gulp task.
   ```
@@ -29,25 +29,25 @@ You can use character list file in [character-list](./character-list) directory.
 
 - Build **CSON** file.
   ```
-  gulp make:cson
+  gulp build:cson
   ```
 
 - Build **JSON** file.
   ```
-  gulp make:json
+  gulp build:json
   ```
 
 - Build **TOML** file.
   ```
-  gulp make:toml
+  gulp build:toml
   ```
 
 - Build **XML** file.
   ```
-  gulp make:xml
+  gulp build:xml
   ```
 
 - Build **YAML** file.
   ```
-  gulp make:yaml
+  gulp build:yaml
   ```
