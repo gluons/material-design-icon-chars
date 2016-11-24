@@ -1,6 +1,6 @@
 {
   "name": "material-design-icon-chars",
-  "description": "Google Material Design Icon Character List",
+  "description": "The list of Google Material Design icon unicode characters in several file format",
   "main": [
     "character-list/character-list.json",
     "character-list/character-list.cson",
@@ -9,10 +9,7 @@
     "character-list/character-list.toml"
   ],
   "authors": [
-    {
-      "name": "Gluons",
-      "email": "sarunta@gmail.com"
-    }
+    "Saran Tanpituckpong <sarunta@gmail.com>"
   ],
   "license": "MIT",
   "keywords": [
@@ -28,9 +25,6 @@
     "node_modules",
     "bower_components",
     "test",
-    "tests",
-    "material-design",
-    "gulpfile.js",
-    "index.js"
+    "tests"
   ]
 }

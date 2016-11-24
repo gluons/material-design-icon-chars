@@ -3,7 +3,7 @@
 [![Bower](https://img.shields.io/bower/v/material-design-icon-chars.svg?style=flat-square)](https://github.com/gluons/material-design-icon-chars)
 [![Travis](https://img.shields.io/travis/gluons/material-design-icon-chars.svg?style=flat-square)](https://travis-ci.org/gluons/material-design-icon-chars)
 
-The list of [Google Material Design Icon](https://design.google.com/icons/) unicode character in several file format.
+The list of [Google Material Design Icon](https://design.google.com/icons/) unicode characters in several file format.
 
 ## Icon Source
 Using icon code from [codepoints](https://github.com/google/material-design-icons/blob/master/iconfont/codepoints).

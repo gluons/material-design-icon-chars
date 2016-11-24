@@ -1,15 +1,19 @@
-var fs = require('fs');
+'use strict';
 
-var expect = require('chai').expect;
+const fs = require('fs');
 
-var xml2js = require('xml2js');
-var CSON = require('cson');
-var toml = require('toml');
-var yaml = require('js-yaml');
+const expect = require('chai').expect;
 
-var iconCount = 932;
+const xml2js = require('xml2js');
+const CSON = require('cson');
+const toml = require('toml');
+const yaml = require('js-yaml');
+
+const iconCount = require('./icon-count.json').count;
 
 describe('Character list files', function() {
+	this.slow(1000);
+
 	it('should create valid CSON character list file', function() {
 		expect(function() {
 			fs.accessSync('character-list/character-list.cson', fs.F_OK | fs.R_OK);

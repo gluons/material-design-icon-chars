@@ -1,13 +1,15 @@
-var expect = require('chai').expect;
+'use strict';
 
-var mdIconChars = require('../');
+const expect = require('chai').expect;
 
-var iconCount = 932;
+const mdIconChars = require('../');
+
+const iconCount = require('./icon-count.json').count;
 
 describe('Node module', function () {
 	it('should load valid character list in JSON', function () {
-		expect(mdIconChars.icons).to.have.length(iconCount);
-		expect(mdIconChars.icons[0]).to.have.all.keys([
+		expect(mdIconChars).to.have.length(iconCount);
+		expect(mdIconChars[0]).to.have.all.keys([
 			'id',
 			'unicode'
 		]);
