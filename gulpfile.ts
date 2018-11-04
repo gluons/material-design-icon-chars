@@ -10,12 +10,12 @@ const yaml = require('js-yaml');
 
 const utils = require('./lib/utils');
 
-gulp.task('clean', 'Clean all built file.', function () {
+gulp.task('clean', 'Clean all built file.', () => {
 	return del(['character-list/*']);
 });
 
-gulp.task('build:json', 'Build JSON character list file.', ['clean'], function () {
-	return utils.getSource().then(function (icons) {
+gulp.task('build:json', 'Build JSON character list file.', ['clean'], () => {
+	return utils.getSource().then(icons => {
 		let fileStream = utils.createStream('character-list.json', JSON.stringify(icons, null, '\t'));
 		fileStream
 			.pipe(plumber())
@@ -24,8 +24,8 @@ gulp.task('build:json', 'Build JSON character list file.', ['clean'], function (
 	});
 });
 
-gulp.task('build:cson', 'Build CSON character list file.', ['clean'], function () {
-	return utils.getSource().then(function (icons) {
+gulp.task('build:cson', 'Build CSON character list file.', ['clean'], () => {
+	return utils.getSource().then(icons => {
 		let fileStream = utils.createStream('character-list.json', JSON.stringify(icons, null, '\t'));
 		fileStream
 			.pipe(plumber())
@@ -35,8 +35,8 @@ gulp.task('build:cson', 'Build CSON character list file.', ['clean'], function (
 	});
 });
 
-gulp.task('build:xml', 'Build XML character list file.', ['clean'], function () {
-	return utils.getSource().then(function (icons) {
+gulp.task('build:xml', 'Build XML character list file.', ['clean'], () => {
+	return utils.getSource().then(icons => {
 		icons = icons.icons;
 		let xmlObj = {
 			icons: {
@@ -64,8 +64,8 @@ gulp.task('build:xml', 'Build XML character list file.', ['clean'], function () 
 	});
 });
 
-gulp.task('build:yaml', 'Build YAML character list file.', ['clean'], function () {
-	return utils.getSource().then(function (icons) {
+gulp.task('build:yaml', 'Build YAML character list file.', ['clean'], () => {
+	return utils.getSource().then(icons => {
 		let fileStream = utils.createStream('character-list.yaml', '---\n' + yaml.safeDump(icons));
 		fileStream
 			.pipe(plumber())
@@ -74,8 +74,8 @@ gulp.task('build:yaml', 'Build YAML character list file.', ['clean'], function (
 	});
 });
 
-gulp.task('build:toml', 'Build TOML character list file.', ['clean'], function () {
-	return utils.getSource().then(function (icons) {
+gulp.task('build:toml', 'Build TOML character list file.', ['clean'], () => {
+	return utils.getSource().then(icons => {
 		let fileStream = utils.createStream('character-list.toml', tomlify.toToml(icons));
 		fileStream
 			.pipe(plumber())
