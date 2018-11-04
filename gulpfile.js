@@ -76,7 +76,7 @@ gulp.task('build:yaml', 'Build YAML character list file.', ['clean'], function (
 
 gulp.task('build:toml', 'Build TOML character list file.', ['clean'], function () {
 	return utils.getSource().then(function (icons) {
-		let fileStream = utils.createStream('character-list.toml', tomlify(icons, null, 2));
+		let fileStream = utils.createStream('character-list.toml', tomlify.toToml(icons));
 		fileStream
 			.pipe(plumber())
 			.pipe(gulp.dest('character-list'));
