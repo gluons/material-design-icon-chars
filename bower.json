@@ -26,7 +26,6 @@
     "bower_components",
     "test",
     "tests",
-    "material-design-icons",
-    "gulpfile.js"
+    "gulpfile.ts"
   ]
 }
