@@ -10,6 +10,7 @@ const iconCount = require('./icon-count.json').count;
 const { F_OK, R_OK } = fsConstants;
 
 describe('Character list files', function () {
+	this.timeout(5000);
 	this.slow(1000);
 
 	it('should create valid CSON character list file', () => {
