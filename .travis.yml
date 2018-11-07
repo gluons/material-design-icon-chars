@@ -4,3 +4,5 @@ node_js:
   - "lts/*"
   - "lts/carbon"
   - "lts/boron"
+notifications:
+  email: false
