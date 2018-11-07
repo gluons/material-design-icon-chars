@@ -1,4 +1,4 @@
-import { dest, parallel } from 'gulp';
+import { dest, parallel, series } from 'gulp';
 import json2cson from 'gulp-json2cson';
 import plumber from 'gulp-plumber';
 
@@ -9,11 +9,15 @@ import xmlBuilder from 'xmlbuilder';
 
 import { createStream, getSource } from './lib/utils';
 
-export const clean = function clean() {
-	return del('character-list/*');
-};
+export function cleanNode() {
+	return del('dist/*');
+}
 
-export const buildJSON = async function buildJSON() {
+export function cleanList() {
+	return del('character-list/*');
+}
+
+export async function buildJSON() {
 	const iconSource = await getSource();
 
 	return createStream(
@@ -22,20 +26,18 @@ export const buildJSON = async function buildJSON() {
 	)
 		.pipe(plumber())
 		.pipe(dest('character-list'));
-};
-buildJSON.displayName = 'build:json';
+}
 
-export const buildCSON = async function buildCSON() {
+export async function buildCSON() {
 	const iconSource = await getSource();
 
 	return createStream('character-list.cson', JSON.stringify(iconSource))
 		.pipe(plumber())
 		.pipe(json2cson())
 		.pipe(dest('character-list'));
-};
-buildCSON.displayName = 'build:cson';
+}
 
-export const buildXML = async function buildXML() {
+export async function buildXML() {
 	const iconSource = await getSource();
 	const { icons } = iconSource;
 	const xmlObj = {
@@ -63,10 +65,9 @@ export const buildXML = async function buildXML() {
 	return createStream('character-list.xml', xmlStr)
 		.pipe(plumber())
 		.pipe(dest('character-list'));
-};
-buildXML.displayName = 'build:xml';
+}
 
-export const buildYAML = async function buildYAML() {
+export async function buildYAML() {
 	const iconSource = await getSource();
 
 	return createStream(
@@ -75,25 +76,19 @@ export const buildYAML = async function buildYAML() {
 	)
 		.pipe(plumber())
 		.pipe(dest('character-list'));
-};
-buildYAML.displayName = 'build:yaml';
+}
 
-export const buildTOML = async function buildTOML() {
+export async function buildTOML() {
 	const iconSource = await getSource();
 
 	return createStream('character-list.toml', tomlify.toToml(iconSource))
 		.pipe(plumber())
 		.pipe(dest('character-list'));
-};
-buildTOML.displayName = 'build:toml';
+}
 
-export const build = parallel(
-	buildJSON,
-	buildCSON,
-	buildXML,
-	buildYAML,
-	buildTOML
+export const build = series(
+	cleanList,
+	parallel(buildJSON, buildCSON, buildXML, buildYAML, buildTOML)
 );
-build.displayName = 'build';
 
 export default build;

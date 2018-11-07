@@ -9,6 +9,7 @@
     "character-list"
   ],
   "scripts": {
+    "prebuild": "gulp cleanNode",
     "build": "gulp && tsc",
     "pretest": "npm run build",
     "test": "ts-mocha test/*.test.ts"
