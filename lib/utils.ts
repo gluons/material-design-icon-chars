@@ -3,8 +3,8 @@ import { createInterface } from 'readline';
 import { Readable } from 'stream';
 import Vinyl from 'vinyl';
 
-import Icon from '../types/Icon';
-import IconSource from '../types/IconSource';
+import Icon from '../src/types/Icon';
+import IconSource from '../src/types/IconSource';
 
 export function getSource(): Promise<IconSource> {
 	return new Promise(resolve => {

@@ -1,8 +1,7 @@
 import { expect } from 'chai';
 
-import { count as iconCount } from './icon-count.json';
-
-const mdIconChars = require('../');
+const iconCount = require('./icon-count.json').count;
+const mdIconChars = require('../dist');
 
 describe('Node module', () => {
 	it('should load valid character list in JSON', () => {

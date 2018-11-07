@@ -2,13 +2,15 @@
   "name": "material-design-icon-chars",
   "version": "1.0.2",
   "description": "The list of Google Material Design icon unicode characters in several file format",
-  "main": "index.js",
+  "main": "dist/index.js",
+  "typings": "dist/index.d.ts",
   "files": [
-    "character-list",
-    "index.js"
+    "dist",
+    "character-list"
   ],
   "scripts": {
-    "build": "gulp",
+    "build": "gulp && tsc",
+    "pretest": "npm run build",
     "test": "ts-mocha test/*.test.ts"
   },
   "repository": {

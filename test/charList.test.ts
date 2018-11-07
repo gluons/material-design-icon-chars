@@ -6,8 +6,7 @@ import yaml from 'js-yaml';
 import toml from 'toml';
 import xml2js from 'xml2js';
 
-import { count as iconCount } from './icon-count.json';
-
+const iconCount = require('./icon-count.json').count;
 const { F_OK, R_OK } = fsConstants;
 
 describe('Character list files', function () {
