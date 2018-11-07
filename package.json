@@ -9,6 +9,7 @@
     "character-list"
   ],
   "scripts": {
+    "prepublishOnly": "npm run build",
     "prebuild": "gulp cleanNode",
     "build": "gulp && tsc",
     "pretest": "npm run build",
