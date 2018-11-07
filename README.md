@@ -2,7 +2,8 @@
 [![license](https://img.shields.io/github/license/gluons/material-design-icon-chars.svg?style=flat-square)](https://github.com/gluons/material-design-icon-chars/blob/master/LICENSE)
 [![npm](https://img.shields.io/npm/v/material-design-icon-chars.svg?style=flat-square)](https://www.npmjs.com/package/material-design-icon-chars)
 [![npm](https://img.shields.io/npm/dt/material-design-icon-chars.svg?style=flat-square)](https://www.npmjs.com/package/material-design-icon-chars)
-[![Bower](https://img.shields.io/bower/v/material-design-icon-chars.svg?style=flat-square)](https://github.com/gluons/material-design-icon-chars)
+[![Known Vulnerabilities](https://snyk.io/test/github/gluons/material-design-icon-chars/badge.svg?targetFile=package.json&style=flat-square)](https://snyk.io/test/github/gluons/material-design-icon-chars?targetFile=package.json)
+[![TSLint](https://img.shields.io/badge/TSLint-gluons-15757B.svg?style=flat-square)](https://github.com/gluons/tslint-config-gluons)
 [![Travis](https://img.shields.io/travis/gluons/material-design-icon-chars.svg?style=flat-square)](https://travis-ci.org/gluons/material-design-icon-chars)
 
 The list of [Google's Material Design Icon](https://github.com/google/material-design-icons) unicode characters in several file format.
