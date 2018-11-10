@@ -1,9 +1,9 @@
 import { expect } from 'chai';
 import { accessSync, constants as fsConstants, readFileSync } from 'fs';
 
+import TOML from '@iarna/toml';
 import CSON from 'cson';
 import yaml from 'js-yaml';
-import toml from 'toml';
 import xml2js from 'xml2js';
 
 const iconCount = require('./icon-count.json').count;
@@ -39,7 +39,7 @@ describe('Character list files', function () {
 		}).to.not.throw(Error);
 
 		expect(() => {
-			const charListTOML = toml.parse(
+			const charListTOML = TOML.parse(
 				readFileSync('character-list/character-list.toml', 'utf8')
 			);
 			expect(charListTOML.icons).to.have.length(iconCount);

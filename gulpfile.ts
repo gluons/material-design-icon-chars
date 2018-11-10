@@ -2,12 +2,13 @@ import { dest, parallel, series } from 'gulp';
 import json2cson from 'gulp-json2cson';
 import plumber from 'gulp-plumber';
 
+import TOML from '@iarna/toml';
 import del from 'del';
 import yaml from 'js-yaml';
-import tomlify from 'tomlify-j0.4';
 import xmlBuilder from 'xmlbuilder';
 
 import { createStream, getSource } from './lib/utils';
+import { ExtendibleIconSource } from './src/types/IconSource';
 
 export function cleanNode() {
 	return del('dist/*');
@@ -79,9 +80,9 @@ export async function buildYAML() {
 }
 
 export async function buildTOML() {
-	const iconSource = await getSource();
+	const iconSource: ExtendibleIconSource = await getSource();
 
-	return createStream('character-list.toml', tomlify.toToml(iconSource))
+	return createStream('character-list.toml', TOML.stringify(iconSource))
 		.pipe(plumber())
 		.pipe(dest('character-list'));
 }
