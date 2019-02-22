@@ -54,7 +54,7 @@
     "gulp-plumber": "^1.1.0",
     "js-yaml": "^3.6.1",
     "material-design-icons": "^3.0.1",
-    "mocha": "^5.2.0",
+    "mocha": "^6.0.0",
     "prettier": "^1.15.1",
     "ts-mocha": "^2.0.0",
     "ts-node": "^8.0.0",
