@@ -54,7 +54,7 @@
     "material-design-icons": "^3.0.1",
     "mocha": "^7.0.0",
     "prettier": "^1.18.2",
-    "ts-mocha": "^6.0.0",
+    "ts-mocha": "^7.0.0",
     "ts-node": "^8.3.0",
     "tslint": "^6.0.0",
     "tslint-config-gluons": "^2.1.0",
