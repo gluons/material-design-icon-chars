@@ -59,10 +59,10 @@
   resolved "https://registry.npmjs.org/@types/chai/-/chai-4.2.11.tgz#d3614d6c5f500142358e6ed24e1bf16657536c50"
   integrity sha512-t7uW6eFafjO+qJ3BIV2gGUyZs27egcNRkUdalkud+Qa3+kg//f129iuOFivHDXQ+vnU3fDXuwgv0cqMCbcE8sw==
 
-"@types/cson@^0.0.31":
-  version "0.0.31"
-  resolved "https://registry.npmjs.org/@types/cson/-/cson-0.0.31.tgz#ad0c475a6b3736cecd9b754eae53a5ae8a6df891"
-  integrity sha512-/HZsi3XbITcXPW477omGMiCwfngXaB/HTmGab6BtRD4sIaIFvODQwbmHNG6n+A9pFB5utI2FxLRFfVRvNKb0Dg==
+"@types/cson@^7.0.0":
+  version "7.20.1"
+  resolved "https://registry.yarnpkg.com/@types/cson/-/cson-7.20.1.tgz#bc14c04edbfbc06aa7b3fce3f02eb1adee3d17df"
+  integrity sha512-MSa3Nkti2/dXO+5FZrQTBhs963m4RYCi46dny3OArUH/NOBykNIJ2I02X933Km5Kz1/cwGP8Cq6NidVGyyiXqw==
 
 "@types/expect@^1.20.4":
   version "1.20.4"
